@@ -6,7 +6,7 @@ This README serves as an entry point to all OctoAcme project management process 
 
 OctoAcme follows a clear project lifecycle consisting of five phases: Initiation, Planning, Execution, Release, and Retrospective. Our core principles emphasize customer-first delivery, iterative development with small testable increments, clear ownership with named Project Managers and Product Leads, data-informed decisions based on evidence, and psychological safety that encourages feedback and learning.
 
-Our project teams consist of well-defined roles with clear responsibilities. Project Managers coordinate delivery activities, manage schedules, risks, and communications. Product Managers define what should be built to deliver customer and business value, own the product vision, and prioritize the backlog. Developers design, build, test, and deliver software components while collaborating with leads to implement features that meet acceptance criteria. Each role has defined communication cadences including weekly syncs between PM and Product Lead, twice-weekly standups for delivery teams, and monthly stakeholder updates.
+Our project teams consist of well-defined roles with clear responsibilities. Project Managers coordinate delivery activities, manage schedules, risks, and communications. Product Managers define what should be built to deliver customer and business value, own the product vision, and prioritize the backlog. Developers design, build, test, and deliver software components while collaborating with leads to implement features that meet acceptance criteria. Additional specialized roles include Release Manager (coordinates releases and deployment), UX Designer (designs user experiences), Technical Writer (maintains documentation), Stakeholder Champion (represents stakeholder interests), Security Lead (oversees security aspects), and Support Engineer (handles post-release support). Each role has defined communication cadences including weekly syncs between PM and Product Lead, twice-weekly standups for delivery teams, and monthly stakeholder updates.
 
 Quality assurance is integrated throughout the development process. We maintain unit tests for new logic, integration tests where applicable, and end-to-end smoke tests for critical flows before release. Security scanning is part of our CI pipeline, and manual QA is performed for feature acceptance when needed. Our risk management approach includes maintaining a risk register with impact assessments, likelihood ratings, owners, and mitigation plans, with consistent escalation paths from team-level to PM to Product Lead to Sponsor.
 
@@ -22,6 +22,8 @@ Key artifacts produced during projects include the Project Charter/One-pager, Ro
 6. [Release & Deployment Guide](octoacme-release-and-deployment.md) - Standardize feature releases to production
 7. [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Capture learnings and convert them into improvements
 8. [Roles and Personas](octoacme-roles-and-personas.md) - Typical roles and responsibilities in OctoAcme projects
+9. [Onboarding Checklists for New Roles](onboarding-checklist-new-roles.md) - Onboarding templates for Release Manager, UX Designer, Technical Writer, Stakeholder Champion, Security Lead, and Support Engineer
+10. [Persona Handoff Templates](persona-handoff-templates.md) - Standardized handoff templates for cross-role coordination
 
 ## How to Use
 
