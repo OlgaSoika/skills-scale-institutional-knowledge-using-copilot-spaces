@@ -99,7 +99,7 @@ Coordinates and oversees the release process, ensures release criteria are met, 
 
 ### Interactions with Other Roles
 - Collaborates with **Developers** on release readiness and code freeze timelines
-- Works with **QA** to ensure acceptance criteria and quality gates are met
+- Works with **testing teams** to ensure acceptance criteria and quality gates are met
 - Coordinates with **Product Manager** on release scope and priorities
 - Partners with **Support Engineer** for post-release handoffs and escalations
 
@@ -129,7 +129,7 @@ Designs and refines user experiences based on project requirements and customer 
 ### Interactions with Other Roles
 - Partners with **Product Manager** on feature prioritization and user needs
 - Collaborates with **Developers** on design implementation and feasibility
-- Works with **QA** to validate user experience in testing scenarios
+- Works with **testing teams** to validate user experience in testing scenarios
 - Gathers feedback from **Stakeholder Champion** on user research
 
 ---
