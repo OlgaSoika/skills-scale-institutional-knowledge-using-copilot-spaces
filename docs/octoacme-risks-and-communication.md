@@ -15,14 +15,16 @@ Maintain a simple table with:
 
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
-- Assess: estimate impact and likelihood
+- Assess: estimate impact and likelihood (Security Lead for security risks)
 - Mitigate: reduced via actions, contingency plans
 - Monitor: review at weekly syncs and update status
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Stakeholder Champion facilitates ongoing stakeholder feedback and updates
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Support Engineer communicates post-release status to end users
 
 ## Communication Templates
 Weekly Status Template:
@@ -39,4 +41,5 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, follow the security incident runbook and notify Security Lead and Security on-call
+- For stakeholder-impacting issues, engage Stakeholder Champion to facilitate communication

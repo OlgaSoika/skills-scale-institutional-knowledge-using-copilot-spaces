@@ -38,6 +38,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
+- [ ] UX Designer review for user-facing features (if applicable)
+- [ ] Security Lead review for security-sensitive components (if applicable)
 - [ ] Release timeline and milestones agreed
+- [ ] Release Manager aligned on deployment approach
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Technical Writer notified for documentation planning

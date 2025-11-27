@@ -19,6 +19,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Release Manager: coordinates and oversees the release process, ensures release criteria are met.
+- UX Designer: designs and refines user experiences based on project requirements.
+- Technical Writer: creates and maintains documentation for processes and features.
+- Stakeholder Champion: represents stakeholder interests and bridges communication with sponsors.
+- Security Lead: oversees security in design, implementation, and releases.
+- Support Engineer: handles post-release support, issue triage, and user feedback.
 
 ## Key Artifacts
 - Project Charter / One-pager

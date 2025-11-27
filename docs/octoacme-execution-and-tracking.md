@@ -20,8 +20,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
+- Security scanning in CI (coordinated by Security Lead)
 - Manual QA for feature acceptance when needed
+- UX Designer validation for user-facing changes (when applicable)
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -36,5 +37,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
+- [ ] Security Lead included in security-relevant reviews
+- [ ] UX Designer engaged for design review on UI changes
+- [ ] Technical Writer notified of documentation needs
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
